@@ -12,7 +12,7 @@
   With this page your going to be able to make posts,edit and delete
   
   ## Installation
-  Go to the page
+  Go to the page: https://deploy-tech-blog-0c9b86f3a182.herokuapp.com/
   
   ## Usage
   In the page, you can login in or signup, after login in, your going to be able to make new post, after creating you can click the post and make updates or delete them
